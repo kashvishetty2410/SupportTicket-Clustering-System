@@ -1,0 +1,39 @@
+======================================================================
+CLUSTER INTERPRETATION REPORT
+======================================================================
+Total complaints: 335
+Number of clusters: 4
+
+
+CLUSTER 0: Miscellaneous (Top: xxxxxxxxxxxx, child)
+Size: 243 (72.5%)
+Top Terms: xxxxxxxxxxxx, child, rapid, owners, basic, xxxxyet, accumulated, andor, rate, estate
+Top Products: Mortgage
+Top Issues: Trouble during payment process
+
+CLUSTER 1: Miscellaneous (Top: xxxxxxxxxxxx, woman)
+Size: 30 (9.0%)
+Top Terms: xxxxxxxxxxxx, woman, favor, owners, xxxxyet, basic, rapid, andor, rate, rated
+Top Products: Mortgage
+Top Issues: Trouble during payment process
+
+CLUSTER 2: Miscellaneous (Top: woman, favor)
+Size: 43 (12.8%)
+Top Terms: woman, favor, xxxxxxxxxxxx, intentional, owners, rate, xxxxyet, rapid, refinanced, estate
+Top Products: Mortgage
+Top Issues: Trouble during payment process
+
+CLUSTER 3: Miscellaneous (Top: recap, warranty)
+Size: 19 (5.7%)
+Top Terms: recap, warranty, ion, approval, xxxxxxxxxxxx, providing, basic, scrupulous, woman, honored
+Top Products: Mortgage
+Top Issues: Trouble during payment process
+
+======================================================================
+VALIDATION NOTES
+======================================================================
+
+- Compare cluster labels with top products/issues
+- If clusters align well with products, clustering is meaningful
+- If misalignment exists, consider adjusting n_clusters
+- The dendrogram suggested 5 clusters; 4 was used
